@@ -3,7 +3,7 @@
     "express": "^4.17.1"
   },
   "name": "xyx_node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "deepClone",
   "main": "app.js",
   "devDependencies": {},
