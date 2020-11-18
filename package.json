@@ -3,8 +3,8 @@
     "express": "^4.17.1"
   },
   "name": "xyx_node",
-  "version": "1.0.1",
-  "description": "回忆node.js",
+  "version": "1.0.2",
+  "description": "deepClone",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
