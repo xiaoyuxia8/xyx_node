@@ -3,7 +3,7 @@
     "express": "^4.17.1"
   },
   "name": "xyx_node",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "hello",
   "main": "app.js",
   "devDependencies": {},

@@ -12,6 +12,7 @@
 //     }
 //     return obj;
 //   }
-export const my = function(){
-    return '你好啊,我的朋友1'
+const my = function(){
+    return '你好啊,我的朋友2'
 }
+module.exports = my
