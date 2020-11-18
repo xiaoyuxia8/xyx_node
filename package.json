@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "xyx_node",
+  "version": "1.0.1",
+  "description": "回忆node.js",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyuxia8/xyx_node.git"
+  },
+  "keywords": [
+    "141414"
+  ],
+  "author": "xyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoyuxia8/xyx_node/issues"
+  },
+  "homepage": "https://github.com/xiaoyuxia8/xyx_node#readme"
+}
